@@ -1,6 +1,6 @@
 # Employee Record Management System
 
-[![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat&logo=vercel)](https://employee-record-app.vercel.app)
+[![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat&logo=vercel)](https://vercel.com/sittuk-kibets-projects/employee-record-app)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 A full-stack employee management system built with Next.js, MongoDB, and NextAuth.js, featuring secure authentication and CRUD operations.
