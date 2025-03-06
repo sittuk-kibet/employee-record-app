@@ -41,15 +41,13 @@ A full-stack employee management system built with Next.js, MongoDB, and NextAut
 ## Installation
 
 1. **Clone Repository**
-\`\`\`bash
+```bash
 git clone https://github.com/sittuk-kibet/employee-record-app.git
 cd employee-record-app
-\`\`\`
-
 2. **Install Dependencies**
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+
 
 3. **Configure Environment**
 \`\`\`bash
